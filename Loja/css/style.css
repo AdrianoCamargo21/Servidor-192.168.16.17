@@ -1,0 +1,52 @@
+.btn{
+  font-family:arial;
+  font-size:14px;
+  text-transform:uppercase;
+  font-weight:700;
+  border:none;
+  padding:10px;
+  cursor:pointer;
+  display:inline-block;
+  
+}
+.btn-green{
+  background:green;
+  color:white;
+  box-shadow:0 5px 0 #006000;
+}
+.btn-green:hover{
+  background:#006000;
+  color:white;
+  box-shadow:0 5px 0 #003f00;
+  }
+.btn-green:active{
+position:relative;
+  top:5px;
+  box-shadow:none;
+  }
+  
+  .btn-red{
+  background:#fd0909;
+  color:white;
+  box-shadow:0 5px 0 #a50101;
+}
+.btn-red:hover{
+  background:#a50101;
+  color:white;
+  box-shadow:0 5px 0 #8e0606;
+  }
+.btn-red:active{
+position:relative;
+  top:5px;
+  box-shadow:none;
+  }
+  .titulo{
+    font-family:arial;
+  font-size:20px;
+  text-transform:uppercase;
+  font-weight:700;
+  border:none;
+  padding:10px;
+  cursor:pointer;
+  display:inline-block;
+  }
